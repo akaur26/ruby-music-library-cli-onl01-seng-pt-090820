@@ -1,2 +1,2 @@
-class Song
+class Artist
 end
